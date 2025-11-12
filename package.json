@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "prerana-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +40,9 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+=======
+  "dependencies": {
+    "firebase": "^12.4.0"
+>>>>>>> a391ae013a9882c5064b53d234fea2023f5ade49
   }
 }
